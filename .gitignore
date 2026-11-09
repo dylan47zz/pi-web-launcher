@@ -1,0 +1,11 @@
+.DS_Store
+/dist/
+/dist.noindex/
+/.build.*
+/.app-debug-stack.txt
+# Local agent instructions/handoff are not part of the distributed tool.
+/AGENTS.md
+/HANDOFF.md
+.env
+.env.*
+*.log
